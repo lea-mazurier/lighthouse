@@ -15,7 +15,7 @@ module.exports = {
     {value: 'tests',      name: 'tests:     Tests, smokehouse, etc'},
     {value: 'i18n',       name: 'i18n:      Internationalization'},
     {value: 'docs',       name: 'docs:      Documentation'},
-    {value: 'deps',       name: 'deps:      Dependency bumps only'},
+    {value: 'deps',       name: 'dep:      Dependency bumps only'},
     {value: 'report',     name: 'report:    Report, UI, renderers'},
     {value: 'cli',        name: 'cli:       CLI stuff'},
     {value: 'clients',    name: 'clients:   Extension, DevTools, or LR stuff'},
